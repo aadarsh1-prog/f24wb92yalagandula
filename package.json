@@ -1,6 +1,6 @@
 {
   "name": "f24wb92yalagandula",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -14,7 +14,7 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.3"
   },
-  "description": "Assignment 10",
+  "description": "Assignment 10 using Express and Pug templates",
   "main": "app.js",
   "repository": {
     "type": "git",
